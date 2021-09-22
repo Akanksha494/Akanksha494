@@ -7,5 +7,5 @@
  
  
  
- [![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akanksha494&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akanksha494&theme=radical)](https://github.com/akanksha/github-readme-stats)
    
