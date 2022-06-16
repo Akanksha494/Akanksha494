@@ -1,4 +1,4 @@
-- Hi everyone <img src="" width="25px"> , I’m Akanksha kasaudhan.
+- Hi everyone , I’m Akanksha kasaudhan.
 - 👀 I’m interested in Learning more Skills.
 - 🌱 I’m currently learning C++ and Web Development.
 
