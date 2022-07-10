@@ -1,6 +1,6 @@
 - Hi everyone , I’m Akanksha kasaudhan.
 - 👀 I’m interested in Learning more Skills.
-- 🌱 I’m currently learning C++ and Web Development.
+- 🌱 I’m currently learning data structures and algorithms.
 
 
 
